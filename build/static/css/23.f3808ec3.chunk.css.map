@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/23.f3808ec3.chunk.css","mappings":"AAAA,QAGE,mBACA,iBAHA,gBACA,iBAGA","sources":["pages/Detail/index.scss"],"sourcesContent":[".detail {\r\n  margin-left: 10%;\r\n  margin-right: 10%;\r\n  border-style: solid;\r\n  border-width: 2px;\r\n  padding: 5px;\r\n}\r\n"],"names":[],"sourceRoot":""}
